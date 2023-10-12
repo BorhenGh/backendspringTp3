@@ -1,6 +1,6 @@
 services:
   spring-boot-app:
-    image: docexp1-spring
+    image: doctp3-spring 
     ports:
       - "0.0.0.0:8091:8091"
     environment:
